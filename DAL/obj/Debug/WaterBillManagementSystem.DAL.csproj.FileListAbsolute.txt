@@ -1,0 +1,9 @@
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\DAL\bin\Debug\DAL.dll
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\DAL\bin\Debug\DAL.pdb
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\DAL\bin\Debug\WaterBillManagement.Entities.dll
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\DAL\bin\Debug\WaterBillManagement.Entities.pdb
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\DAL\obj\Debug\WaterBillManagementSystem.DAL.csproj.AssemblyReference.cache
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\DAL\obj\Debug\WaterBillManagementSystem.DAL.csproj.CoreCompileInputs.cache
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\DAL\obj\Debug\WaterBil.034DC72D.Up2Date
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\DAL\obj\Debug\DAL.dll
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\DAL\obj\Debug\DAL.pdb
